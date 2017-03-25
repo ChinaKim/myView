@@ -12,4 +12,8 @@ protected int i=0;
 
 
     private int h = 11;
+
+
+    private String ss
+             = "Creating a new branch is quick & simple.";
 }
