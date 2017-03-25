@@ -5,4 +5,5 @@ package yisiyixue.com.viewpagerdemo;
  */
 
 public class test {
+protected int i=0;
 }
