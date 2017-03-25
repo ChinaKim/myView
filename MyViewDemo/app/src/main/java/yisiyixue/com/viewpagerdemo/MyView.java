@@ -58,6 +58,7 @@ public class MyView extends View {
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
         Log.i(TAG,"onDraw");
+         Log.i(TAG,"onDraw");
     }
 
     @Override
