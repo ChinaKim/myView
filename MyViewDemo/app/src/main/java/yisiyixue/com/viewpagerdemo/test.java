@@ -21,5 +21,6 @@ protected int i=0;
 
     private String dd= "checkout dev";
 
-    private String dde = "develop dev";
+
+    private String dev="this is dev";
 }
