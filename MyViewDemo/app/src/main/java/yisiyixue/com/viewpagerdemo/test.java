@@ -20,4 +20,7 @@ protected int i=0;
 
 
     private String dd= "checkout dev";
+
+
+    private String dev="this is dev";
 }
