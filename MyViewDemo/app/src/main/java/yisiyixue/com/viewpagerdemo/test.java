@@ -23,4 +23,6 @@ protected int i=0;
 
 
     private String dev="this is dev";
+
+    private String checkDev = "check to dev";
 }
