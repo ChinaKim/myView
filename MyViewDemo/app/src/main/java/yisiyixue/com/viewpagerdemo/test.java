@@ -34,4 +34,6 @@ protected int i=0;
 
     private String chen = "在dev上开发";
 
+    private String cheng = "develop on master, commit to dev";
+
 }
