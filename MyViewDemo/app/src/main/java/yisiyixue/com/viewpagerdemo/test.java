@@ -41,4 +41,6 @@ protected int i=0;
 
     private String chngeet="重新回到dev";
 
+    private String master = "this is master";
+
 }
