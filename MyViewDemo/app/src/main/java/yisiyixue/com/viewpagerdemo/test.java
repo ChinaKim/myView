@@ -44,6 +44,9 @@ protected int i=0;
     private String master = "this is master";
 
     private String devvv="debsesf";
+    private String devvvs="debsesf";
+
+
 
 
 
