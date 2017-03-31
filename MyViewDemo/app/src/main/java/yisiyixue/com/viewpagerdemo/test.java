@@ -32,6 +32,7 @@ protected int i=0;
 
     private String checkDev = "check to dev";
 
+
     private String chen = "在dev上开发";
 
 
@@ -48,10 +49,10 @@ protected int i=0;
     private String devvfvs="debsesf";
 
 
-    
 
 
 
+    private String checkDevfef = "check to dev 1.1";
 
 
 }
