@@ -21,38 +21,5 @@ protected int i=0;
 
     private String dd= "checkout dev";
 
-
-    private String dev="this is dev";
-
-
-
-    private String devs = "create on dev";
-
-    private String devbbb = "create on devs ";
-
-    private String checkDev = "check to dev";
-
-
-    private String chen = "在dev上开发";
-
-
-    private String cheng = "develop on master, commit to dev";
-
-
-
-    private String chngeet="重新回到dev";
-
-    private String master = "this is master";
-
-    private String devvv="debsesf";
-    private String devvvs="debsesf";
-    private String devvfvs="debsesf";
-
-
-
-
-
-    private String checkDevfef = "check to dev 1.1";
-
-
+    private String dde = "develop dev";
 }
