@@ -22,6 +22,9 @@ protected int i=0;
     private String dd= "checkout dev";
 
 
+    private String dde = "develop dev";
+
+
     private String dev="this is dev";
 
 
@@ -32,15 +35,7 @@ protected int i=0;
 
     private String checkDev = "check to dev";
 
-    private String chen = "在dev上开发";
+    private String testFentch = "faefaef";
 
-
-    private String cheng = "develop on master, commit to dev";
-
-
-
-    private String chngeet="重新回到dev";
-
-    private String master = "this is master";
 
 }
