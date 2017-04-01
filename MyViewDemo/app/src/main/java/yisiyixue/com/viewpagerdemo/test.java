@@ -35,5 +35,7 @@ protected int i=0;
 
     private String checkDev = "check to dev";
 
+    private String testFentch = "faefaef";
+
 
 }
