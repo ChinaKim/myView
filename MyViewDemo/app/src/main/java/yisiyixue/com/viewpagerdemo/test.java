@@ -21,5 +21,19 @@ protected int i=0;
 
     private String dd= "checkout dev";
 
+
     private String dde = "develop dev";
+
+
+    private String dev="this is dev";
+
+
+
+    private String devs = "create on dev";
+
+    private String devbbb = "create on devs ";
+
+    private String checkDev = "check to dev";
+
+
 }
