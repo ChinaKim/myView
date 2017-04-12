@@ -43,6 +43,11 @@ protected int i=0;
     private int test16 = 16;
     private int testhotfix = 17;
 
+    private int testhodev= 17;
+
+
+
+
 
 
 }
