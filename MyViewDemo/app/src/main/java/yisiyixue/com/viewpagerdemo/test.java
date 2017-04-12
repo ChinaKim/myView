@@ -47,6 +47,10 @@ protected int i=0;
 
     private int testhremoteodev= 17;
 
+    private int testhremoteodev2= 18;
+
+
+
 
 
 
