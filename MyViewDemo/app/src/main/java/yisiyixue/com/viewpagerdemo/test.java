@@ -50,6 +50,7 @@ protected int i=0;
     private int testhremoteodev2= 18;
     private int testhremoteodev3= 119;
     private int testhremoteodev4= 20;
+    private int testhremoteodev5= 20;
 
 
 
